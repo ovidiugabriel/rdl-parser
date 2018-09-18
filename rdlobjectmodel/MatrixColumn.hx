@@ -1,5 +1,5 @@
 
 package rdlobjectmodel;
 
-class MatrixColumns {
+class MatrixColumn {
 }

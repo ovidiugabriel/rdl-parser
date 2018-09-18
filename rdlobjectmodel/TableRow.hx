@@ -1,5 +1,5 @@
 
 package rdlobjectmodel;
 
-class TableRows {
+class TableRow {
 }

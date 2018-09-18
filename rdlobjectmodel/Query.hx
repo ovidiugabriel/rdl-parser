@@ -1,4 +1,6 @@
 
+package rdlobjectmodel;
+
 class Query {
     var CommandText : String;
 

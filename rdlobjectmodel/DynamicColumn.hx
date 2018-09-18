@@ -1,5 +1,5 @@
 
 package rdlobjectmodel;
 
-class DynamicColumns {
+class DynamicColumn {
 }

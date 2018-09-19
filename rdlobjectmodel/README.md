@@ -51,13 +51,13 @@ Provides the default property values for the chart.
 * [ChartAlignType](rdlobjectmodel/ChartAlignType.hx)
 Defines which aspects of the chart area should be aligned with the target chart area.
 
-* ChartArea	
+* [ChartArea](rdlobjectmodel/ChartArea.hx)
 Represents a chart area to be drawn within a chart data region.
 
-* ChartAxis	
+* [ChartAxis](rdlobjectmodel/ChartAxis.hx)
 Represents the properties for labels, titles and gridlines along an axis.
 
-* ChartAxisScaleBreak	
+* [ChartAxisScaleBreak](rdlobjectmodel/ChartAxisScaleBreak.hx)
 Contains the scale break properties of an axis.
 
 * ChartAxisTitle	

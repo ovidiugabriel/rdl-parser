@@ -1,0 +1,4 @@
+
+package rdlobjectmodel;
+
+class MapLocation {}

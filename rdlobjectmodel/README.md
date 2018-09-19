@@ -30,25 +30,25 @@ Represents an image that is displayed as a part of a gauge.
 * [Body](rdlobjectmodel/Body.hx)
 Defines the visual elements of the body of the report and how the data is structured/grouped, and binds the visual elements to the data for the report.
 
-* Border	
+* [Border](rdlobjectmodel/Border.hx)
 Represents the default border properties for the object.
 
-* CapImage	
+* [CapImage](rdlobjectmodel/CapImage.hx)
 Represents an image to be used for a pointer cap in a radial gauge.
 
-* CellContents	
+* [CellContents](rdlobjectmodel/CellContents.hx)
 Represents a report item contained in the body, header, or corner cell of a tablix.
 
-* CellDefinition	
+* [CellDefinition](rdlobjectmodel/CellDefinition.hx)
 Represents the cell definition.
 
-* Chart	
+* [Chart](rdlobjectmodel/Chart.hx)
 Represents a set of chart areas to be drawn as a single data visualization data region. The chart is defined much like a tablix, but instead of columns, rows, and cells, the chart has categories, series, and data points.
 
 * Chart.Defaults	
 Provides the default property values for the chart.
 
-* ChartAlignType	
+* [ChartAlignType](rdlobjectmodel/ChartAlignType.hx)
 Defines which aspects of the chart area should be aligned with the target chart area.
 
 * ChartArea	

@@ -1,3 +1,5 @@
+Ref: https://docs.microsoft.com/en-us/dotnet/api/microsoft.reportingservices.rdlobjectmodel?view=sqlserver-2016
+
 * [Action](rdlobjectmodel/Action.hx)
 Contains a hyperlink, bookmark link, or drillthrough action that is associated with a report item.
 
@@ -16,16 +18,16 @@ The exception that is thrown when the value of a property is greater than the ma
 * ArgumentTooSmallException	
 The exception that is thrown when the value of a property is lower than the minimum value allowed.
 
-* BackFrame	
+* [BackFrame](rdlobjectmodel/BackFrame.hx)
 Represents the frame and frame background for a gauge or gauge panel.
 
-* BackgroundImage	
+* [BackgroundImage](rdlobjectmodel/BackgroundImage.hx)
 Represents a background image in the report definition.
 
-* BaseGaugeImage	
+* [BaseGaugeImage](rdlobjectmodel/BaseGaugeImage.hx)
 Represents an image that is displayed as a part of a gauge.
 
-* Body	
+* [Body](rdlobjectmodel/Body.hx)
 Defines the visual elements of the body of the report and how the data is structured/grouped, and binds the visual elements to the data for the report.
 
 * Border	

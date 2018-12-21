@@ -8,8 +8,6 @@
     "include_system_constraint_names": false,
     "include_unsupported_statements": false,
     "schema_qualify_object_names": true,
-    
-    // Script
     "script_bindings": true,
     "script_collation": true,
     "script_defaults": true,
@@ -23,9 +21,7 @@
     "script_owner": true,
     "script_statistics": "",
     "script_use_database": "",
-    "types_of_data_to_script": "",
-    
-    // Table/View Options
+    "types_of_data_to_script": "",    
     "script_change_tracking": false,
     "script_check_constraints": true,
     "script_data_compression_options": false,

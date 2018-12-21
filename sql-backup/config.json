@@ -1,2 +1,9 @@
 {
+    "check_for_object_existence": false,
+    "continue_scripting_on_error": false,
+    "convert_uddts_to_base_types": false,
+    "generate_script_for_dependent_objects": true,
+    "include_descriptive_headers": true,
+    "include_scripting_parameters_header": false,
+    "include_system_constraint_names": false
 }

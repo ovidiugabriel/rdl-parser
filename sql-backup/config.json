@@ -5,5 +5,34 @@
     "generate_script_for_dependent_objects": true,
     "include_descriptive_headers": true,
     "include_scripting_parameters_header": false,
-    "include_system_constraint_names": false
+    "include_system_constraint_names": false,
+    "include_unsupported_statements": false,
+    "schema_qualify_object_names": true,
+    
+    // Script
+    "script_bindings": true,
+    "script_collation": true,
+    "script_defaults": true,
+    "script_drop_and_create": true,
+    "script_extended_properties": true,
+    "script_for_server_version": "",
+    "script_for_the_database_engine_version": "",
+    "script_for_the_database_engine_type": "",
+    "script_logins": true,
+    "script_object_level_permissions": true,
+    "script_owner": true,
+    "script_statistics": "",
+    "script_use_database": "",
+    "types_of_data_to_script": "",
+    
+    // Table/View Options
+    "script_change_tracking": false,
+    "script_check_constraints": true,
+    "script_data_compression_options": false,
+    "script_foreign_keys": true,
+    "script_full_text_indexes": true,
+    "script_indexes": true,
+    "script_primary_keys": true,
+    "script_triggers": true,
+    "script_unique_keys": true,
 }

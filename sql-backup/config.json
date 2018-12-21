@@ -1,4 +1,6 @@
 {
+    "ansi_padding": true,
+    "append_to_file": true,
     "check_for_object_existence": false,
     "continue_scripting_on_error": false,
     "convert_uddts_to_base_types": false,

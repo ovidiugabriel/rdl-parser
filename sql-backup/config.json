@@ -33,4 +33,9 @@
     "script_primary_keys": true,
     "script_triggers": true,
     "script_unique_keys": true,
+    "output" : {
+        "one_file_for_each_object": true,
+        "charset": "ascii",
+        "overwrite_existing_files": true
+    }
 }

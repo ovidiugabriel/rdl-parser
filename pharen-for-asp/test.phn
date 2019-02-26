@@ -1,0 +1,11 @@
+(require-once "asp.php")
+
+(asp:SqlDataSource {
+    "id"                "SqlDataSource1"
+    "runat"             "server"
+    "ProviderName"      "System.Data.Odbc"
+    "DataSourceMode"    "DataSet"
+    "ConnectionString"  "dsn=myodbc3dsn;"
+    "SelectCommand"     "SELECT FirstName, LastName, Title FROM Employees"
+    }
+)
